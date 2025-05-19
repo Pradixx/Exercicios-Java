@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mini - Projetos/BancoGuanabara/BancoGuanabara.iml" filepath="$PROJECT_DIR$/Mini - Projetos/BancoGuanabara/BancoGuanabara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mini - Projetos/Calculadora_Terminal/Calculadora_Terminal.iml" filepath="$PROJECT_DIR$/Mini - Projetos/Calculadora_Terminal/Calculadora_Terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Celular/Celular.iml" filepath="$PROJECT_DIR$/Celular/Celular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mini - Projetos/Conversor_Temperatura/Conversor_Temperatura.iml" filepath="$PROJECT_DIR$/Mini - Projetos/Conversor_Temperatura/Conversor_Temperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Livro/Livro.iml" filepath="$PROJECT_DIR$/Livro/Livro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Caneta/ProjetoCaneta/ProjetoCaneta.iml" filepath="$PROJECT_DIR$/Caneta/ProjetoCaneta/ProjetoCaneta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Caneta/ProjetoCaneta - Metodos Especiais/ProjetoCaneta - Metodos Especiais.iml" filepath="$PROJECT_DIR$/Caneta/ProjetoCaneta - Metodos Especiais/ProjetoCaneta - Metodos Especiais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Caneta/ProjetoCaneta - visibilidade/ProjetoCaneta - visibilidade.iml" filepath="$PROJECT_DIR$/Caneta/ProjetoCaneta - visibilidade/ProjetoCaneta - visibilidade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projetosJava.iml" filepath="$PROJECT_DIR$/.idea/projetosJava.iml" />
+    </modules>
+  </component>
+</project>
