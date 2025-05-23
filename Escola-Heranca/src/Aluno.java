@@ -4,7 +4,7 @@ public class Aluno extends Pessoa{
 
     public void cancelarMatr(){
         this.matr = 0;
-        System.out.println("Matricula");
+        System.out.println("Matricula encerrada");
     }
 
     public int getMatr() {
