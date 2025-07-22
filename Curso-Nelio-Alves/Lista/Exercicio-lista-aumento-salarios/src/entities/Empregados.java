@@ -44,6 +44,7 @@ public class Empregados {
     }
 
     public void aumentandoSalario(double porcentagem){
+
         salario += salario * porcentagem / 100.0;
     }
 }
