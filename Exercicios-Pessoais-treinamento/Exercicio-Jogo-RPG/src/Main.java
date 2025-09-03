@@ -21,12 +21,12 @@ public class Main {
             System.out.println("Dados do personagem #" + i);
 
             System.out.print("Guerreiro, Mago, Arqueiro (G/M/A)? ");
-            char per = sc.next().charAt(0);
+            char personagem = sc.next().charAt(0);
 
             System.out.print("Nome: ");
             String nome = sc.next();
 
-            if (per == 'G'){
+            if (personagem == 'G'){
                 tipo= "Guerreiro";
             } else if (per == 'M') {
                 tipo = "Mago";
