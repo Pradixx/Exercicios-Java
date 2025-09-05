@@ -7,7 +7,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Para começar coloque seu nome: ");
-        String nome = sc.next();
+        String name = sc.next();
         System.out.print("Digite o endereco: ");
         sc.nextLine();
         String endereco = sc.nextLine();
@@ -15,7 +15,7 @@ public class Main {
         int salario = sc.nextInt();
         Date data = new Date();
 
-        Dados dados = new Dados(nome, endereco, salario, data);
+        Dados dados = new Dados(name, endereco, salario, data);
         SimpleDateFormat dataFormatada = new SimpleDateFormat("dd/MM/yyyy HH:mm");
 
         System.out.println();
