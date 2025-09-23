@@ -27,6 +27,10 @@ public class Main {
 
         System.out.println(response.body());
 
+        String json = response.body();
+        String year = json.split("\"Year\":\"")[1].split("\"")[0];
+        System.out.println("Ano: " + year);
+
         sc.close();
     }
 }
